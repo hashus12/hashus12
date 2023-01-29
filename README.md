@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 ### My Stats :
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hashus12&theme=material-palenight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)-->
 
-![Hasan Hüseyin Özgen's GitHub stats](https://github-readme-stats.vercel.app/api?username=melekny&show_icons=true&theme=material-palenight)
+![Hasan Hüseyin Özgen's GitHub stats](https://github-readme-stats.vercel.app/api?username=hashus12&show_icons=true&theme=material-palenight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hashus12&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
