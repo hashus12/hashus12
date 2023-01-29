@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋 My name is Hasan Hüseyin Özgen
 
 <!--
 **hashus12/hashus12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-❓  Ask me about anything related to Spring and .NET.
-🌱 I’m currently learning SpringBoot, Kubernetes and Nginx.
-💫 2023 Goals: Learn more about Backend Technologies
-📫 How to reach me: hasanozgen12@gmail.com
+- ❓  Ask me about anything related to Spring and .NET.
+- 🌱 I’m currently learning SpringBoot, Kubernetes and Nginx.
+- 💫 2023 Goals: Learn more about Backend Technologies
+- 📫 How to reach me: hasanozgen12@gmail.com
 
 ### Let's Connect!
 
