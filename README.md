@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+❓  Ask me about anything related to Spring and .NET.
+🌱 I’m currently learning SpringBoot, Kubernetes and Nginx.
+💫 2023 Goals: Learn more about Backend Technologies
+📫 How to reach me: hasanozgen12@gmail.com
+
 ### Let's Connect!
 
 [![mail](./img/mail.svg)](mailto:<hasanozgen12@gmail.com>)
