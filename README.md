@@ -101,9 +101,9 @@ Here are some ideas to get you started:
 ### My Stats :
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hashus12&theme=material-palenight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)-->
 
-![Hasan Hüseyin Özgen's GitHub stats](https://github-readme-stats.vercel.app/api?username=hashus12&show_icons=true&theme=material-palenight)
+![Hasan Hüseyin Özgen's GitHub stats](https://vercel-readme-seven.vercel.app/api?username=hashus12&show_icons=true&theme=material-palenight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hashus12&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://vercel-readme-seven.vercel.app/api/top-langs/?username=hashus12&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -112,13 +112,13 @@ Here are some ideas to get you started:
 <div align="center">
   
 
-[![Readme Card](https://vercel-readme-henna.vercel.app/api/pin/?username=hashus12&theme=synthwave&repo=FinalCaseProject)](https://github.com/hashus12/FinalCaseProject)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hashus12&theme=synthwave&repo=finalcasefrontend)](https://github.com/hashus12/finalcasefrontend) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hashus12&theme=gotham&repo=ReCapProject-Backend)](https://github.com/hashus12/ReCapProject-Backend)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hashus12&theme=gotham&repo=ReCapProject-Angular)](https://github.com/hashus12/ReCapProject-Angular)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hashus12&theme=synthwave&repo=fatura-onay-sistemi)](https://github.com/hashus12/fatura-onay-sistemi)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hashus12&theme=synthwave&repo=ogrenci-otomasyon-sistemi)](https://github.com/hashus12/ogrenci-otomasyon-sistemi)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hashus12&theme=gotham&repo=producttracking)](https://github.com/hashus12/producttracking)
+[![Readme Card](https://vercel-readme-seven.vercel.app/api/pin/?username=hashus12&theme=synthwave&repo=FinalCaseProject)](https://github.com/hashus12/FinalCaseProject)
+[![Readme Card](https://vercel-readme-seven.vercel.app/api/pin/?username=hashus12&theme=synthwave&repo=finalcasefrontend)](https://github.com/hashus12/finalcasefrontend) 
+[![Readme Card](https://vercel-readme-seven.vercel.app/api/pin/?username=hashus12&theme=gotham&repo=ReCapProject-Backend)](https://github.com/hashus12/ReCapProject-Backend)
+[![Readme Card](https://vercel-readme-seven.vercel.app/api/pin/?username=hashus12&theme=gotham&repo=ReCapProject-Angular)](https://github.com/hashus12/ReCapProject-Angular)
+[![Readme Card](https://vercel-readme-seven.vercel.app/api/pin/?username=hashus12&theme=synthwave&repo=fatura-onay-sistemi)](https://github.com/hashus12/fatura-onay-sistemi)
+[![Readme Card](https://vercel-readme-seven.vercel.app/api/pin/?username=hashus12&theme=synthwave&repo=ogrenci-otomasyon-sistemi)](https://github.com/hashus12/ogrenci-otomasyon-sistemi)
+[![Readme Card](https://vercel-readme-seven.vercel.app/api/pin/?username=hashus12&theme=gotham&repo=producttracking)](https://github.com/hashus12/producttracking)
   
 </div>
 
