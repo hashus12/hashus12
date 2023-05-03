@@ -112,7 +112,7 @@ Here are some ideas to get you started:
 <div align="center">
   
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hashus12&theme=synthwave&repo=FinalCaseProject)](https://github.com/hashus12/FinalCaseProject)
+[![Readme Card](https://vercel-readme-henna.vercel.app/api/pin/?username=hashus12&theme=synthwave&repo=FinalCaseProject)](https://github.com/hashus12/FinalCaseProject)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hashus12&theme=synthwave&repo=finalcasefrontend)](https://github.com/hashus12/finalcasefrontend) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hashus12&theme=gotham&repo=ReCapProject-Backend)](https://github.com/hashus12/ReCapProject-Backend)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hashus12&theme=gotham&repo=ReCapProject-Angular)](https://github.com/hashus12/ReCapProject-Angular)
