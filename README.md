@@ -114,6 +114,7 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hashus12&theme=gotham&repo=ReCapProject-Backend)](https://github.com/hashus12/ReCapProject-Backend)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hashus12&theme=gotham&repo=ReCapProject-Angular)](https://github.com/hashus12/ReCapProject-Angular)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hashus12&theme=gotham&repo=FinalCaseProject)](https://github.com/hashus12/FinalCaseProject)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hashus12&theme=gotham&repo=finalcasefrontend)](https://github.com/hashus12/finalcasefrontend)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hashus12&theme=gotham&repo=producttracking)](https://github.com/hashus12/producttracking)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hashus12&theme=synthwave&repo=fatura-onay-sistemi)](https://github.com/hashus12/fatura-onay-sistemi)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hashus12&theme=synthwave&repo=ogrenci-otomasyon-sistemi)](https://github.com/hashus12/ogrenci-otomasyon-sistemi)
