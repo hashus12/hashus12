@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- ❓  Ask me about anything related to Spring and .NET.
-- 🌱 I’m currently learning SpringBoot, Kubernetes and Nginx.
-- 💫 2023 Goals: Learn more about Backend Technologies
+- ❓  Ask me about anything related to SAP ABAP.
+- 🌱 I’m currently learning RAP, ABAP , FIORI.
+- 💫 2025 Goals: Learn more about SAP Technologies
 - 📫 How to reach me: hasanozgen12@gmail.com
 
 ### Let's Connect!
